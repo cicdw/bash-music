@@ -1,4 +1,4 @@
-# bash-succession
+# bash-music
 CLI utility for playing an arbitrary mp3 anytime you run a bash function for the duration of the function call.
 
 To use:
